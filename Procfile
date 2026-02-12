@@ -1,1 +1,1 @@
-web: python cong.py
+worker: python cong.py
